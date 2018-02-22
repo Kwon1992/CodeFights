@@ -1,4 +1,4 @@
-package com.company.kwonhyunwoo;
+package com.company.kwonhyunwoo.Intro;
 
 /**
  * After they became famous, the CodeBots all decided to move to a new building and live together.
